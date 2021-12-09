@@ -1,0 +1,57 @@
+
+input
+{
+    background: blue;
+}
+
+.book_mainDiv
+{
+    border: 10px double #2bf1ff;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: none
+}
+
+.book_mainDiv img
+{
+  width: 100%;
+}
+
+.book_mainDiv hr
+{
+    width: 230px; 
+}
+
+.book_mainDiv h5 , .book_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+.book_head
+{
+    font-size: 25px;
+    padding: 6px 22px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color: turquoise;
+    font-family: cursive;
+    border-color: aquamarine;
+    border-style: solid;
+    padding:20px;
+    border-width: 15px;
+}
+
+.book_head i
+{
+float: right;
+}
+
+.book_text span
+{
+color: #ff7700;
+}
